@@ -1,0 +1,1 @@
+const lyrics = 'the less i know, the better';
